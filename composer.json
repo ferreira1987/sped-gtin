@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-gtin",
+    "name": "ads-system/sped-gtin",
     "type": "library",
     "description": "Classes for validation of GTIN codes.",
     "keywords": [
@@ -9,7 +9,7 @@
         "nfephp",
         "gtin"
     ],
-    "homepage": "https://github.com/nfephp-org/sped-gtin",
+    "homepage": "https://github.com/ferreira1987/sped-gtin",
     "license": [
         "LGPL-3.0-or-later",
         "GPL-3.0-or-later",
@@ -19,7 +19,7 @@
         {
             "name": "Roberto L. Machado",
             "email": "linux.rlm@gmail.com.br",
-            "homepage": "https://github.com/nfephp-org",
+            "homepage": "https://github.com/ferreira1987",
             "role": "Developer"
         },
         {
@@ -30,7 +30,7 @@
         },
         {
             "name": "Comunidade NFePHP",
-            "homepage": "https://github.com/nfephp-org/sped-gtin/graphs/contributors"
+            "homepage": "https://github.com/ferreira1987/sped-gtin/graphs/contributors"
         }
     ],
     "require": {

@@ -151,28 +151,28 @@ Não deixe de se cadastrar no [grupo de discussão do NFePHP](http://groups.goog
 _E deve ser instalado com:_
 
 ```bash
-composer require nfephp-org/sped-gtin
+composer require ads-system/sped-gtin
 ```
 
 Ou ainda alterando o composer.json do seu aplicativo inserindo:
 
 ```json
 "require": {
-    "nfephp-org/sped-gtin" : "^1.0"
+    "ads-system/sped-gtin" : "^1.0"
 }
 ```
 
 _Para utilizar o pacote em desenvolvimento (branch master) deve ser instalado com:_
 
 ```bash
-composer require nfephp-org/sped-gtin:dev-master
+composer require ads-system/sped-gtin:dev-master
 ```
 
 _Ou ainda alterando o composer.json do seu aplicativo inserindo:_
 
 ```json
 "require": {
-    "nfephp-org/sped-gtin" : "dev-master"
+    "ads-system/sped-gtin" : "dev-master"
 }
 ```
 
